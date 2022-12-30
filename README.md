@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 📫 E-mail me: harsht@sbusa.org
 
 👯 I’m looking to collaborate on https://github.com/Samskrita-Bharati/zat.am
-
-[image](git-hht-about.jpg)
